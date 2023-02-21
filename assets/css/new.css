@@ -1,0 +1,6 @@
+th{
+    text-align: center;
+}
+button[type=submit]#full,button[type=button]#full,a#full{
+    width: 100%;
+}
